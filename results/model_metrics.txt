@@ -1,0 +1,4 @@
+Model Evaluation Results
+------------------------
+MSE: 29.09
+R² Score: 0.8804
